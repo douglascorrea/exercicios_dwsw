@@ -1,0 +1,50 @@
+Blog sobre Linguagens de Programação
+
+Neste blog vou escrever artigos relacionados a linguagens de Programação que utilizo no dia a dia do meu trabalho
+
+Veja a lista de posts do meu blog:
+
+- O que é Javascript?
+- PHP é a melhor linguagem para começar?
+- Python, a melhor linguagem para Data Science
+
+# O que é Javascript
+[Imagem Javascript 1]
+JavaScript é uma linguagem de programação de alto nível criada, a princípio, para ser executada em navegadores e manipular comportamentos de páginas web.Javascript é uma linguagem, ...leia mais
+
+# PHP é a melhor linguagem para começar?
+[Imagem PHP 1]
+Essa é uma pergunta recorrente para os iniciantes no mundo do desenvolvimento web. Por PHP ser uma linguagem muito popular, muitos iniciantes pensam em começar a estudar por ela mas, ...leia mais
+
+# Python
+[Imagem Python 1]
+Não há dúvidas que Python é a melhor linguagem para se trabalhar com Ciencia de Dados, pois existem dezenas de bibliotecas preparadas para estatistica e machine learning criadas com a linguagem, ...leia mais
+
+
+Linguagens mais Populares
+1) PHP
+2) Javascript
+3) Python
+
+# Veja o que os desenvolvedores estao dizendo:
+"Essa é a minha linguagem preferida, consigo fazer tudo com ela"
+Elon Musk, sobre Javascript
+
+"O Windows foi criado inicialmente usando PHP"
+Bill Gates, sobre PHP
+
+"Adoro Python, mas as Najas sao mais bonitas"
+Richard Rasmussen, sobre Python
+
+Se você quiser, entre em contato pelo formulário abaixo:
+
+Nome: <>
+Email: <>
+Mensagem: <>
+Deseja receber nosso newsletter? [x]
+Você gostou dessa página: () Sim () Nao
+[Enviar]
+
+Siga-nos nas nossas mídias sociais
+[Instagram] => https://Instagram.com/douglascorrea.io
+[Youtube]  => https://youtube.com/c/douglascorrea
